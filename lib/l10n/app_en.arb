@@ -1,0 +1,35 @@
+{ 
+    "language": "English",
+    "welcome":"welcome",
+    "error":"error",
+    
+    "startShift":"start shift",
+    "mangerConnect":"manger connect",
+    "accessGeo":"accessGeo",
+    "accessGeoDescr":"accessGeoDescr",
+    "accessGeoAccept":"accessGeoAccept",
+    "login":"login",
+    "password":"password",
+    "inputLogin":"inputLogin",
+    "inputPassword":"inputPassword",
+    "incorrectPassword":"inсorectPassword",
+    "comeIn":"comeIn",
+    "recoveryPassword":"recoveryPassword",
+    "letStart":"letStart",
+    "letProceed":"letProceed",
+    
+    "openShift":"openShift",
+    "sendPhoto":"sendPhoto",
+    "shiftAcceptance":"shiftAcceptance",
+    "yourChanger":"yourChanger",
+    "makingPhotoDescription":"makingPhotoDescription",
+    "makingPhotoShot":"makingPhotoShot",
+    "makingPhotoReshot":"makingPhotoReshot",
+    "makingPhotoComplete":"makingPhotoComplete",        
+    "makingPhotoGratitude":"makingPhotoGratitude",
+    "shiftGratitude":"shiftGratitude",
+    "openShiftQuestion":"openShiftQuestion",
+    "troubles":"troubles",
+    "allOkay":"allOkay"
+
+}
